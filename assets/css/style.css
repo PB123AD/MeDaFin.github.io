@@ -778,6 +778,15 @@ section {
 /*--------------------------------------------------------------
 # Features
 --------------------------------------------------------------*/
+.features h4 {
+  color: #e43c5c;
+text-align: left;
+font-size: 20px;
+  font-weight: 700;
+}
+.features p{
+  justify-content: left;
+}
 .features .icon-box h4 {
   font-size: 20px;
   font-weight: 700;
